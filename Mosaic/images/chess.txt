@@ -1,0 +1,9 @@
+chess_01.jpg
+chess_02.jpg
+chess_03.jpg
+chess_04.jpg
+chess_05.jpg
+chess_06.jpg
+chess_07.jpg
+chess_08.jpg
+chess_09.jpg
